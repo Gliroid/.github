@@ -1,6 +1,9 @@
-## Hi there 👋
+# Gliroid Studios
 
-## [Pliatix](https://github.com/Pliatix)
+This section is still work in progress.
+
+## Our projects
+- [Pliatix](https://github.com/Pliatix)
 
 <!--
 
