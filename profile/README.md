@@ -1,4 +1,4 @@
-# Gliroid Studios
+# Gliroid
 
 This section is still work in progress.
 
